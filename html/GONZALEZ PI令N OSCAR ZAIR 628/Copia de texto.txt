@@ -1,0 +1,19 @@
+<HTML>
+<HEAD>
+<BODY>  Bgcolor= green>
+<Font Face= Bernad MT Size= 20 Color= black>
+<Center> Halo The Series </Center>
+<Font Face= Bernad MT Size= 20 Color= blue>
+<BR>
+<Font Face= Bernad MT Size= 20 Color= blue>
+<BR>
+Paramount Plus llevó a cabo la premier del primer capítulo de la nueva producción Halo: The Series en la pantalla Imax del Papalote Museo del Niño en la Ciudad de México en el día del estreno de la serie por streaming. El evento estuvo lleno de público ansioso por ver las nuevas aventuras de Master Chief encarnado por Pablo Schreiber, en la búsqueda de explorar un personaje mucho más completo y menos frío, como suele ser el protagonista de la franquicia de Xbox. 
+<Font Face= Bernad MT Size= 20 Color= blue>
+<img Src= imagen2.jpg widht=300 height=300 align= center>
+<BR>
+En la alfombra roja, desfilaron celebridades como Manolo Caro, El Potro, Samira Jalil, Bárbara Torres o la actriz Pilar Santacruz, además de influencers y creadores de contenido que desfilaron por la alfombra azul del evento. Además, una serie de spartans los escoltaban con un grupo sinfónico ambientando el lugar con la clásica canción de la franquicia.
+<Font Face= Bernad MT Size= 20 Color= blue>
+<img Src= imagen1.jpg widht=300 height=350 align= left>
+<BR>
+<img Src= imagen3.jpg widht=200 height=200 align= right>
+
